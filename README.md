@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Turning ideas into apps with Flutter magic
 ------------------------------------------
 
-I’m an indie developer with over a year of experience crafting mobile experiences. My toolkit? \*\*Dart, Flutter, Firebase, REST APIs, and a sharp eye for UI/UX\*\*. I sketch in \*\*Figma\*\*, code in Flutter, and love bringing concepts to life — from scrappy prototypes to polished releases. Building apps isn’t just my job, it’s my playground.
+I’m an indie developer with over a year of experience crafting mobile experiences.  
+My toolkit? __Dart, Flutter, Firebase, REST APIs, and a sharp eye for UI/UX__.  
+I sketch in __Figma__, code in Flutter, and love bringing concepts to life — from scrappy prototypes to polished releases.  
+Building apps isn’t just my job, it’s my playground.
 
 * 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [bitacorapr@duck.com](mailto:bitacorapr@duck.com)
