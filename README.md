@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexis. A
+[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexis. A
 =================================================================================================================================
 
 Indie Mobile App Developer.
@@ -36,3 +36,4 @@ I began my programming journey in 2024, starting with HTML, CSS, and JavaScript.
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/bitacoradeldev"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
+](https://beacons.ai/bitacoradeldev)
