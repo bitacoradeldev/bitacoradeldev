@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Indie Mobile App Developer.
 ---------------------------
 
-I began my programming journey in 2024, starting with HTML, CSS, and JavaScript. These early steps gave me a solid foundation in web development, but it was when I discovered React Native that I truly found my passion: building mobile applications that feel fluid, purposeful, and beautifully designed. Today, I embrace the path of an indie developer, working independently to bring my own ideas to life and create products that resonate with real users. I’m driven by the fusion of clean UI, clear functionality, and mobile experiences that adapt seamlessly to everyday needs.
+I began my programming journey in 2024, starting with HTML, CSS, and JavaScript. These early steps gave me a solid foundation in web development, but it was when I discovered Flutter that I truly found my passion: building mobile applications that feel fluid, purposeful, and beautifully designed. Today, I embrace the path of an indie developer, working independently to bring my own ideas to life and create products that resonate with real users. I’m driven by the fusion of clean UI, clear functionality, and mobile experiences that adapt seamlessly to everyday needs.
 
 * ✉️  You can contact me at [bitacoradeldev.pr@gmail.com](mailto:bitacoradeldev.pr@gmail.com)
-* ⚡  react native > flutter
+* ⚡  Flutter
 
 ### Skills
 
