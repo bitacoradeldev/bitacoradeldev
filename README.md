@@ -25,6 +25,7 @@ Building apps isn’t just my job, it’s my playground.
 <a href="https://www.x.com/bitacoradeldev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bitacoradeldev?logo=twitter&style=for-the-badge&color=64748b&labelColor=181824"
 /></a>
+
 ### Badges
 
 <a href="https://github.com/bitacoradeldev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitacoradeldev&langs_count=10&title_color=ffffff&text_color=84cc16&icon_color=64748b&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
